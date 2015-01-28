@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">BloodDonationApp</string>
+    <string name="app_name">SaveALife</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="register">Register</string>
     <string name="find_a_donor">Find A Donor</string>
     <string name="bloodgroup_spinner_prompt">Select Blood Group</string>
-    <string name="register_heading">Be A Donor. Donate A Life...</string>
+    <string name="register_heading">Be A Donor. Save A Life...</string>
 
     <string-array name="bloodgroup_array">
         <item>A+ve</item>
@@ -30,7 +30,7 @@
         <item>Bangalore</item>
         <item>Gangtok</item>
         <item>Chennai</item>
-        <item>Bongaigaon</item>
+        <item>Bongaingaon</item>
         <item>Kolkata</item>
     </string-array>
     <string-array name="nepal_city_array">
